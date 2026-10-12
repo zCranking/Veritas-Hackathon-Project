@@ -3,7 +3,7 @@
 **An adversarial red-team harness that catches when an AI-generated clinical note
 silently drifts from what was actually said in a doctor-patient visit.**
 
-[![Live demo](https://zcranking.github.io/Veritas-Hackathon-Project/)
+[![Live demo](https://img.shields.io/badge/live%20demo-open-2f6fdb)](https://zcranking.github.io/Veritas-Hackathon-Project/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-3776ab)](https://www.python.org/)
 [![Model](https://img.shields.io/badge/model-claude--sonnet--4--6-8a63d2)](https://docs.claude.com/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
