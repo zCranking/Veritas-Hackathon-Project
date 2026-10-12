@@ -24,7 +24,7 @@ silently drifts from what was actually said in a doctor-patient visit.**
 > a clean *"denies."* This harness treats the note-writer as a system under test
 > and hunts for exactly those drifts.
 
-**[▶ Try the live demo](https://zcranking.github.io/AI-Healthcare-Hackathon-Project/)** — a real
+**[▶ Try the live demo](https://zcranking.github.io/Veritas-Hackathon-Project/)** — a real
 saved pipeline run (only case 1), no API key required.
 
 ## How it works
@@ -152,7 +152,7 @@ note, right = flagged discrepancies with severity color and per-judge votes.
 `static/index.html` probes for a backend at startup. With none reachable it
 falls back to **demo mode** and replays a real saved run from
 `static/demo/sample_run.json`, so the whole UI stays explorable as a plain static page.
-That's what the [live demo](https://zcranking.github.io/AI-Healthcare-Hackathon-Project/)
+That's what the [live demo](https://zcranking.github.io/Veritas-Hackathon-Project/)
 serves — one HTML file plus one JSON file, no build step and no server.
 
 To publish it, point GitHub Pages at the repo root and open
